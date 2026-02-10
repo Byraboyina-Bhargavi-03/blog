@@ -5,3 +5,9 @@ p{
 body{
     background-color: antiquewhite;
 }
+h6{
+    background-image:url(./travel.jpg);
+}
+h1{
+    background-position: calc(200px);
+}
